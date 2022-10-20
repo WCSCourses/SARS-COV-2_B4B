@@ -8,7 +8,7 @@ We have created an example notebook -
 
 ## Lecture Videos to watch:
 
-![Video1](linktovideohere)
+[Video1](linktovideohere)
 
 Please use this as a start base for your module. 
 
