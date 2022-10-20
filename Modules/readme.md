@@ -6,6 +6,9 @@ These must be workable in the Google Colab platform - https://colab.research.goo
 
 We have created an example notebook - 
 
+## Lecture Videos to watch:
+
+![Video1](linktovideohere)
 
 Please use this as a start base for your module. 
 
