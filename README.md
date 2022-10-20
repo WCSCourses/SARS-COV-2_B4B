@@ -39,17 +39,17 @@ The programme will cover the following core topics:
 
 ## Instructor Team
 <!-- example - [Carolina Torres](https://www.researchgate.net/profile/Carolina-Torres-7), Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina   -->
-Ariel Amadio
-Idowu Olawoye
-John Juma 
-Jorge Batista da Rocha
-Leigh Jackson
-Marcela Suarez Esquivel
-Nicholas Bbosa
-Paul Oluniyi
-Progress Dube
-Una Ren
-Zahra Waheed
+- [Ariel Amadio](https://www.unraf.edu.ar/), Universidad Nacional de Rafaela, IDICAL, [INTA-CONICET](https://idical.conicet.gov.ar/), Argentina
+- [Idowu Olawoye](link)
+- [John Juma](link) 
+- [Jorge Batista da Rocha](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Wellcome Connecting Science, United Kingdom
+- [Leigh Jackson](link)
+- [Marcela Suarez Esquivel](link), Universidad Nacional, Costa Rica <!-- no permission to share institution link -->
+- [Nicholas Bbosa](link)
+- [Paul Oluniyi](link)
+- [Progress Dube](link)
+- [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zeland
+- [Zahra Waheed](link)
 
 ## Timetable
 [View the timetable here](https://docs.google.com/document/d/15LkC6fEp2vQfZKm8KfkLyPb8bRpqfjusM-fLWa7Kic4/edit?usp=sharing)
