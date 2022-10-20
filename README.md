@@ -61,20 +61,20 @@ The programme will cover the following core topics:
 [Learn how to use moodle and make a classroom bio](link)      
 
 **Module 1: Introduction to Notebooks & Unix command line**      
-[Notebooks and Unix - Part 1](link)     
-[Notebooks and Unix - Part 2](link)      
+[Notebooks and Unix - Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_1_readme.md)     
+[Notebooks and Unix - Part 2](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_1_readme.md)      
 
 **Module 2: Data QC and Consensus sequences**    
-[Data QC and Consensus Part 1](link)       
-[Data QC and Consensus Part 2](link)     
+[Data QC and Consensus Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_2_readme.md)       
+[Data QC and Consensus Part 2](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_2_readme.md)     
 
 **Module 3: Variant Lineage Identification**       
-[Variant Lineage Identification Part 1](link)      
-[Variant Lineage Identification Part 2](link)       
+[Variant Lineage Identification Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_3_readme.md)      
+[Variant Lineage Identification Part 2](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_3_readme.md)       
 
 **Module 4: Data sharing and interpretation**       
-[Data sharing and interpretation Part 1](link)      
-[Data sharing and interpretation Part 2](link)       
+[Data sharing and interpretation Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_4_readme.md)      
+[Data sharing and interpretation Part 2](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_4_readme.md)       
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
