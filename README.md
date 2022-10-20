@@ -61,8 +61,8 @@ The programme will cover the following core topics:
 [Learn how to use moodle and make a classroom bio](link)      
 
 **Module 1: Introduction to Notebooks & Unix command line**      
-[Notebooks and Unix - Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_1_readme.md)     
-[Notebooks and Unix - Part 2](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_1_readme.md)      
+[Notebooks and Unix - Part 1](Modules/Module_1_readme.md)     
+[Notebooks and Unix - Part 2](Modules/Module_1_readme.md)      
 
 **Module 2: Data QC and Consensus sequences**    
 [Data QC and Consensus Part 1](https://github.com/WCSCourses/SARS-COV-2_B4B/blob/main/Modules/Module_2_readme.md)       
