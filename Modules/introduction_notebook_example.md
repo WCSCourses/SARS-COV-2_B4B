@@ -2,7 +2,7 @@
 
 ## How to begin: 
 
-To begin, go to https://colab.research.google.com/ 
+To begin, go to [https://colab.research.google.com/](https://colab.research.google.com/ )
 
 Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our purposes. 
 
