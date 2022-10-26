@@ -56,7 +56,9 @@ The programme will cover the following core topics:
 
 ## Course manual
 
-**Introduction**       
+**Introduction** 
+[Introduction Notebook - Begin here](Modules/introduction_notebook_example.md)
+
 [Get to know your classroom and assistants](link)       
 [Learn how to use moodle and make a classroom bio](link)      
 
