@@ -51,8 +51,10 @@ The programme will cover the following core topics:
 - [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zeland
 - [Zahra Waheed](link)
 
-## Timetable
-[View the timetable here](https://docs.google.com/document/d/15LkC6fEp2vQfZKm8KfkLyPb8bRpqfjusM-fLWa7Kic4/edit?usp=sharing)
+## Timetable and Classroom List
+[View the timetable here](Timetables_SARSCOV2B4B.pdf)    
+
+[Classroom List and Numbers](classrooms.md)
 
 ## Course manual
 
