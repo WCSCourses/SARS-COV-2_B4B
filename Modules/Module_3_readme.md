@@ -28,7 +28,7 @@ into the search bar under "Enter a GitHub URL or search by organization or user"
 
 After a brief search, you will see
 ```
-Modules/Module_Template_SARSCOVB4B.ipynb
+Modules/Module_3_SARSCOVB4B.ipynb
 ```
 below "Path". Click on "Convert_to_md-2.ipynb"
 
