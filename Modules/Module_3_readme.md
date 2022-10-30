@@ -1,4 +1,4 @@
-## Module making for SARS-CoV-2 B4B
+## Module 3 for SARS-CoV-2 B4B
 
 The base for practical content for this course will be in Python notebooks (.ipynb)
 
@@ -8,7 +8,7 @@ We have created an example notebook -
 
 ## Lecture Videos to watch:
 
-[Video1](linktovideohere)
+[Variant Lineage Identification](https://youtu.be/9Hwx_TLQyOw)
 
 Please use this as a start base for your module. 
 
