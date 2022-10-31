@@ -54,7 +54,7 @@ The programme will cover the following core topics:
 ## Timetable and Classroom List
 [View the timetable here](Timetables_SARSCOV2B4B.pdf)    
 
-[Classroom List and Numbers](classrooms.md)
+[Classroom List and Numbers](Classroom_List_SARSCOV2B4B.pdf)
 
 ## Course manual
 
