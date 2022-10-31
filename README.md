@@ -5,7 +5,7 @@ SARS-CoV-2 variant lineage identification is key to pandemic tracking and enabli
 
 SARS-CoV-2 variant lineage identification is key to pandemic tracking and enabling public health response. This course is an introduction to bioinformatics by applying skills used in SARS-CoV-2 genomic data analysis. Bioinformatics skills are fundamental in management and assessment of viral sequences. This course will introduce you to processing data programmatically, the data formats used in viral sequencing, how to determine the variant lineage (Delta, Omicron etc.), and how to share data so that others around the world can benefit. These skills are the building blocks for scaling up analysis to pandemic response levels. 
 
-[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/sars-cov-2-bioinformatics-for-beginners-20221031/)
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/sars-cov-2-bioinformatics-for-beginners-20221031/)             
 [Glossary](Glossary.md)
 
 ## Course structure 
