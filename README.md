@@ -62,8 +62,9 @@ The programme will cover the following core topics:
 **Introduction Week**         
 [Introduction Day 1 Dayplan](dayplans/Introduction_Week_Day_Plan_Day1.pdf)       
 
-[Introduction Notebook - Begin here](Modules/introduction_notebook_example.md)
-
+[Introduction Notebook - Begin here](Modules/introduction_notebook_example.md)      
+      
+[Video Playlist - Introduction Week](https://www.youtube.com/playlist?list=PLfovZnX0TvKucooABBhYGqhS3tMSNdG5T)      
 <!-- [Learn how to use moodle and make a classroom bio](link)      -->
 
 **Module 1: Introduction to Notebooks & Unix command line**      
