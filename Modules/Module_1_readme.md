@@ -9,7 +9,7 @@ We have created an example notebook -
 
 ## Lecture Videos to watch:
 
-[Video1](linktovideohere)
+[Module 1: Playlist]()
 
 Please use this as a start base for your module. 
 
@@ -29,17 +29,11 @@ into the search bar under "Enter a GitHub URL or search by organization or user"
 
 After a brief search, you will see
 ```
-Modules/Module_Template_SARSCOVB4B.ipynb
+Modules/Module_1_Notebook_Part1and2_v1.ipynb
 ```
-below "Path". Click on "Convert_to_md-2.ipynb"
-
-You will see the template notebook open.
+below "Path". Click on "Module_1_Notebook_Part1and2_v1.ipynb"
 
 In order to run the cells, you will need to login with your Google account (it is free to make an account).
 
 **NB - The one opened directly from git will not save unless the first notebook steps are followed!**
-
-The instructions that are in the template must be followed by you, and then also leave these there as the participants will need to do the same for completing your module notebooks. 
-
-This is to ensure they keep a copy of their notebooks, and have a copy they can download and submit as part of the course. 
 
