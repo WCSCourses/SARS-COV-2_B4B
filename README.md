@@ -72,8 +72,13 @@ The programme will cover the following core topics:
 <!-- [Learn how to use moodle and make a classroom bio](link)      -->
 
 **Module 1: Introduction to Notebooks & Unix command line**      
-<!-- [Notebooks and Unix - Part 1](Modules/Module_1_readme.md)     -->
-<!-- [Notebooks and Unix - Part 2](Modules/Module_1_readme.md)      -->
+[Module 1 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)         
+
+[Module 1 Part 1 Day Plan](dayplans/Day_Plan_Module_1_Day_1_SARS-CoV-2%_B4B_2022.pdf)
+
+[Module 1 Part 1 Notebook Instructions](Modules/Module_1_readme.md)
+
+<!-- [Module 1 Part 2 Intro NGS Data Formats and QC - Part 2](Modules/Module_1_readme.md)      -->
 
 **Module 2: Data QC and Consensus sequences**    
 <!-- [Data QC and Consensus Part 1](Modules/Module_2_readme.md)       -->
