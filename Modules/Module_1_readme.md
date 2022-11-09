@@ -9,7 +9,7 @@ We have created an example notebook -
 
 ## Lecture Videos to watch:
 
-[Module 1: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKucooABBhYGqhS3tMSNdG5T)
+[Module 1: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)
 
 Please use this as a start base for your module. 
 
