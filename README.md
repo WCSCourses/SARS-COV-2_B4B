@@ -41,16 +41,21 @@ The programme will cover the following core topics:
 ## Instructor Team
 <!-- example - [Carolina Torres](https://www.researchgate.net/profile/Carolina-Torres-7), Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina   -->
 - [Ariel Amadio](https://www.unraf.edu.ar/), Universidad Nacional de Rafaela, IDICAL, [INTA-CONICET](https://idical.conicet.gov.ar/), Argentina
-- [Idowu Olawoye](link)
-- [John Juma](link) 
-- [Jorge Batista da Rocha](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Wellcome Connecting Science, United Kingdom
-- [Leigh Jackson](link)
-- [Marcela Suarez Esquivel](link), Universidad Nacional, Costa Rica <!-- no permission to share institution link -->
-- [Nicholas Bbosa](link)
-- [Paul Oluniyi](link)
-- [Progress Dube](link)
-- [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zeland
-- [Zahra Waheed](link)
+- [Blanca Taboada](https://www.ibt.unam.mx/),[CoViGen-Mex](http://132.248.32.96:8080/COVID-TRACKER/), Instituto de Biotecnología, Universidad Nacional Autónoma de México (UNAM); Consorcio Mexicano de Vigilancia Genómica (CoViGen-Mex)
+- [Carlo Lapid](https://pgc.up.edu.ph/about/our-genetic-makeup-2/bioinformatics-team/), Philippine Genome Centre, Philippines
+- Elizabeth Batty, MORU Mahidol Oxford Tropical Medicine Research Unit, Thailand
+- Idowu Olawoye, African Centre for Excellence for Genomics of Infectious Diseases (ACEGID), Nigeria
+- [Johan F Bernal](https://www.agrosavia.co/nosotros/grupos-de-investigacion/investigaci%C3%B3n-y-vigilancia-integrada-de-la-resistencia-antimicrobiana), AGROSAVIA, Colombia,
+- [John Juma](www.ilri.org), International Livestock Research Institute (ILRI), Kenya, [SANBI](https://www.sanbi.ac.za/), University of Western Cape, South Africa
+- [Jorge Batista da Rocha](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), COG-Train, Wellcome Connecting Science, United Kingdom, Sydney Brenner Institute for Molecular Bioscience [SBIMB](https://www.wits.ac.za/research/sbimb/), University of the Witwatersrand, South Africa
+- [Leigh Jackson](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), COG-Train, University of Exeter, United Kingdom
+- [Marcela Suarez Esquivel](https://www.medvet.una.ac.cr), Universidad Nacional, Costa Rica <!-- updated permissions to share institution link -->
+- Nicholas Bbosa, Medical Research Council, Uganda Virus Research Institute, London School of Hy & Trop Medicine, Uganda, United Kingdom
+- [Paul Oluniyi](https://www.czbiohub.org), Chan Zuckerberg Biohub, University of California, San Francisco, USA 
+- [Progress Dube](https://nba.ac.zw), National Biotechnology Authority, Zimbabwe
+- [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zealand
+- [Varun Shammana](www.crlkims.com), Central Research Laboratory, Kempegowda Institute of Medical Sciences
+- Zahra Waheed, European Bioinformatics Institute, Wellcome Genome Campus, United Kingdom
 
 ## Timetable and Classroom List
 [View the timetable here](Timetables_SARSCOV2B4B.pdf)    
