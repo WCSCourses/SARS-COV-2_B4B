@@ -81,7 +81,7 @@ The programme will cover the following core topics:
 
 [Module 1 Part 1 Day Plan](dayplans/Day_Plan_Module_1_Day_1_SARS-CoV-2_B4B_2022.pdf)
 
-[Module 1 Part 2 Day Plan](dayplans/Day_Plan_Module_2_Day_1_SARS-CoV-2_B4B_2022.pdf)
+[Module 1 Part 2 Day Plan](dayplans/Day_Plan_Module_1_Day 2_SARS-CoV-2_B4B_2022.pdf)
 
 [Module 1 Part 1 and Part 2 Notebook Instructions](Modules/Module_1_readme.md)
 
