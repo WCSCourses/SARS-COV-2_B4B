@@ -85,7 +85,7 @@ The programme will cover the following core topics:
 
 [Module 1 Part 1 and Part 2 Notebook Instructions](Modules/Module_1_readme.md)
 
-[Bonus Videos for NGS file formats](https://wcscourses.github.io/ViralBioinfAsia2022/Modules/Introduction_to_NGS.html)
+[Bonus Videos for NGS technologies](https://wcscourses.github.io/ViralBioinfAsia2022/Modules/Introduction_to_NGS.html)
 
 
 **Module 2: Data QC and Consensus sequences**    
