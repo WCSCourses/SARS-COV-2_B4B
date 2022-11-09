@@ -81,9 +81,12 @@ The programme will cover the following core topics:
 
 [Module 1 Part 1 Day Plan](dayplans/Day_Plan_Module_1_Day_1_SARS-CoV-2_B4B_2022.pdf)
 
-[Module 1 Part 1 Notebook Instructions](Modules/Module_1_readme.md)
+[Module 1 Part 2 Day Plan](dayplans/Day_Plan_Module_2_Day_1_SARS-CoV-2_B4B_2022.pdf)
 
-<!-- [Module 1 Part 2 Intro NGS Data Formats and QC - Part 2](Modules/Module_1_readme.md)      -->
+[Module 1 Part 1 and Part 2 Notebook Instructions](Modules/Module_1_readme.md)
+
+
+
 
 **Module 2: Data QC and Consensus sequences**    
 <!-- [Data QC and Consensus Part 1](Modules/Module_2_readme.md)       -->
