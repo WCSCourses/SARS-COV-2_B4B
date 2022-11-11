@@ -89,8 +89,15 @@ The programme will cover the following core topics:
 
 
 **Module 2: Data QC and Consensus sequences**    
-<!-- [Data QC and Consensus Part 1](Modules/Module_2_readme.md)       -->
-<!-- [Data QC and Consensus Part 2](Modules/Module_2_readme.md)     -->
+
+[Module 2 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
+
+
+<!-- [Module 2 Part 1 Day Plan]()               -->
+
+<!-- [Module 2 Part 2 Day Plan]()               -->
+
+<!-- [Module 2 Data QC and Consensus Notebook Instructions Parts ... ](Modules/Module_2_readme.md)       -->
 
 **Module 3: Variant Lineage Identification**       
 <!-- [Variant Lineage Identification Part 1](Modules/Module_3_readme.md)     --> 
