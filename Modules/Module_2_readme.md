@@ -1,20 +1,19 @@
-## Module making for SARS-CoV-2 B4B
+## Module 2 DataQC and Consensus Sequence for SARS-CoV-2 
 
 The base for practical content for this course will be in Python notebooks (.ipynb)
 
-These must be workable in the Google Colab platform - https://colab.research.google.com 
+These must be workable in the Google Colab platform - [https://colab.research.google.com/](https://colab.research.google.com/)
 
-We have created an example notebook - 
 
 ## Lecture Videos to watch:
 
-[Video1](linktovideohere)
+[Module 2 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
 
 Please use this as a start base for your module. 
 
 ## How to begin: 
 
-To begin, go to https://colab.research.google.com/ 
+To begin, go to [https://colab.research.google.com/](https://colab.research.google.com/)
 
 Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
 
@@ -28,17 +27,14 @@ into the search bar under "Enter a GitHub URL or search by organization or user"
 
 After a brief search, you will see
 ```
-Modules/Module_Template_SARSCOVB4B.ipynb
+Modules/Change this to module 2s notebook path
 ```
-below "Path". Click on "Convert_to_md-2.ipynb"
+below "Path". Click on "Change this to module 2s notebook name"
 
-You will see the template notebook open.
+You will see the  notebook open.
 
 In order to run the cells, you will need to login with your Google account (it is free to make an account).
 
 **NB - The one opened directly from git will not save unless the first notebook steps are followed!**
 
-The instructions that are in the template must be followed by you, and then also leave these there as the participants will need to do the same for completing your module notebooks. 
-
-This is to ensure they keep a copy of their notebooks, and have a copy they can download and submit as part of the course. 
 
