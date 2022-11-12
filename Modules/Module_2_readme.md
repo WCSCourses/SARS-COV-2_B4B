@@ -19,17 +19,35 @@ Use of Colab is free. Note - There are limitations on the free version, but we w
 
 On the Colab example home page, select "File", then "Open Notebook"
 
+## There are three Notebooks for Module 2
+You will need to repeat the import and save + rename for all three notebooks as you will be required to submit all 3!
+
 There is a Tab for "Github"; select that tab and paste 
 ```
 https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
 into the search bar under "Enter a GitHub URL or search by organization or user" 
 
-After a brief search, you will see
+After a brief search, you will see (**for each notebook part**)
+
+Part 1:
 ```
-Modules/Change this to module 2s notebook path
+Modules/Module_2_Part1_Sequencing_Run_QC_(Nanopore_and_Illumina).ipynb
 ```
-below "Path". Click on "Change this to module 2s notebook name"
+
+Part 2:
+```
+Modules/Module_2_Part2_Nanopore_SARS_CoV_2_genome_reconstruction.ipynb
+```
+
+Part 3:
+```
+Modules/Module_2_Part3_Illumina_SARS_CoV_2_genome_reconstruction.ipynb
+```
+
+
+below "Path". Click on the respect notebook to begin that part. 
+
 
 You will see the  notebook open.
 
