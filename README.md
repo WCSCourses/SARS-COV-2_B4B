@@ -93,11 +93,11 @@ The programme will cover the following core topics:
 [Module 2 Video Playlist (Parts 1 and 2)](https://www.youtube.com/playlist?list=PLfovZnX0TvKtfX79k16fFMkMwDFtrAcNp)         
 
 
-<!-- [Module 2 Part 1 Day Plan]()               -->
+[Module 2 Part 1 Day Plan](dayplans/DayPlan_Module_2_Day_1_SARS-CoV-2B4B2022.pdf)               
 
-<!-- [Module 2 Part 2 Day Plan]()               -->
+[Module 2 Part 2 Day Plan](dayplans/DayPlan_Module_2_Day_2_SARS-CoV-2B4B2022.pdf)               
 
-<!-- [Module 2 Data QC and Consensus Notebook Instructions Parts ... ](Modules/Module_2_readme.md)       -->
+[Module 2 Data QC and Consensus Notebook Instructions Parts 1,2,3 ](Modules/Module_2_readme.md)       
 
 **Module 3: Variant Lineage Identification**       
 <!-- [Variant Lineage Identification Part 1](Modules/Module_3_readme.md)     --> 
