@@ -4,8 +4,6 @@ The base for practical content for this course will be in Python notebooks (.ipy
 
 These must be workable in the Google Colab platform - https://colab.research.google.com 
 
-We have created an example notebook - 
-
 ## Lecture Videos to watch:
 
 [Variant Lineage Identification](https://youtu.be/9Hwx_TLQyOw)
@@ -30,15 +28,11 @@ After a brief search, you will see
 ```
 Modules/Module_3_SARSCOVB4B.ipynb
 ```
-below "Path". Click on "Convert_to_md-2.ipynb"
+below "Path". Click on "Module_3_SARSCOVB4B.ipynb"
 
-You will see the template notebook open.
+You will see the notebook open.
 
 In order to run the cells, you will need to login with your Google account (it is free to make an account).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!**
-
-The instructions that are in the template must be followed by you, and then also leave these there as the participants will need to do the same for completing your module notebooks. 
-
-This is to ensure they keep a copy of their notebooks, and have a copy they can download and submit as part of the course. 
+**NB - The one opened directly from git will not save unless the first notebook steps are followed!** 
 
