@@ -100,7 +100,13 @@ The programme will cover the following core topics:
 [Module 2 Data QC and Consensus Notebook Instructions Parts 1,2,3 ](Modules/Module_2_readme.md)       
 
 **Module 3: Variant Lineage Identification**       
-<!-- [Variant Lineage Identification Part 1](Modules/Module_3_readme.md)     --> 
+[Module 3 Video - Variant Lineage Identification](https://www.youtube.com/watch?v=9Hwx_TLQyOw)        
+
+[Module 3 Part 1 Day Plan](dayplans/DayPlan_Module_3-Day_1_SARS-CoV-2_B4B_2022.pdf)               
+
+[Module 3 Variant Lineage Identification Notebook Instructions](Modules/Module_3_readme.md)           
+
+
 <!-- [Variant Lineage Identification Part 2](Modules/Module_3_readme.md)   -->    
 
 **Module 4: Data sharing and interpretation**       
