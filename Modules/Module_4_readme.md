@@ -8,7 +8,7 @@ We have created an example notebook -
 
 ## Lecture Videos to watch:
 
-[Video1](linktovideohere)
+[Module 4: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKu_wFgoZSN0DuKQ-sarlmg3)
 
 Please use this as a start base for your module. 
 
@@ -28,7 +28,7 @@ into the search bar under "Enter a GitHub URL or search by organization or user"
 
 After a brief search, you will see
 ```
-Modules/Module_Template_SARSCOVB4B.ipynb
+Module4_Interpretation_workbook.ipynb
 ```
 below "Path". Click on "Convert_to_md-2.ipynb"
 
