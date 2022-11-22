@@ -106,6 +106,7 @@ The programme will cover the following core topics:
 
 [Module 3 Variant Lineage Identification Notebook Instructions](Modules/Module_3_readme.md)           
 
+[Module 3 Part 2 Day Plan - Exercise](dayplans/DayPlan_Module_3_Day_2_SARS-CoV-2_B4B_2022.pdf)
 
 <!-- [Variant Lineage Identification Part 2](Modules/Module_3_readme.md)   -->    
 
