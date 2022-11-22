@@ -24,13 +24,19 @@ https://github.com/WCSCourses/SARS-COV-2_B4B
 ```
 into the search bar under "Enter a GitHub URL or search by organization or user" 
 
-After a brief search, you will see
+After a brief search, you will see:
+
+Part 1:
 ```
 Module_3 SARS_CoV_2 _Part1.ipynb
 ```
-below "Path". Click on "Module_3 SARS_CoV_2 _Part1.ipynb"
 
-You will see the notebook open.
+Part 2:
+```
+Module_3 SARS_CoV_2 _Part2.ipynb
+```
+
+below "Path". Click on the respective notebook filename to open it.
 
 In order to run the cells, you will need to login with your Google account (it is free to make an account).
 
