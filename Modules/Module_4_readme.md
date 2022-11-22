@@ -28,7 +28,7 @@ into the search bar under "Enter a GitHub URL or search by organization or user"
 
 After a brief search, you will see
 ```
-Module4_Interpretation_workbook.ipynb
+Modules/Module4_Interpretation_workbook.ipynb
 ```
 below "Path". Click on "Convert_to_md-2.ipynb"
 
