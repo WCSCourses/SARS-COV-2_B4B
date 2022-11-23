@@ -110,7 +110,16 @@ The programme will cover the following core topics:
 
 <!-- [Variant Lineage Identification Part 2](Modules/Module_3_readme.md)   -->    
 
-**Module 4: Data sharing and interpretation**       
+**Module 4: Data sharing and interpretation**    
+[Module 4 Video Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKu_wFgoZSN0DuKQ-sarlmg3)
+(Please watch Sections 1-2 for **Day 1**, and Sections 3-7 for **Day 2**)
+
+[Module 4 Part 1 Day Plan](dayplans/)   
+[Module 4 Part 2 Day Plan](dayplans/) 
+
+[Module 4 Data Sharing and Interpretation Notebook Instructions](Modules/Module_4_readme.md)           
+
+[Module 3 Part 2 Day Plan - Exercise](dayplans/DayPlan_Module_3_Day_2_SARS-CoV-2_B4B_2022.pdf)
 <!-- [Data sharing and interpretation Part 1](Modules/Module_4_readme.md)      -->
 <!-- [Data sharing and interpretation Part 2](Modules/Module_4_readme.md)       -->
 
