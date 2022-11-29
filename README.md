@@ -55,7 +55,7 @@ The programme will cover the following core topics:
 - [Progress Dube](https://nba.ac.zw), National Biotechnology Authority, Zimbabwe
 - [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zealand
 - [Varun Shammana](www.crlkims.com), Central Research Laboratory, Kempegowda Institute of Medical Sciences
-- Zahra Waheed, European Bioinformatics Institute, Wellcome Genome Campus, United Kingdom
+- [Zahra Waheed](https://www.ebi.ac.uk/ena/browser/home), European Bioinformatics Institute, Wellcome Genome Campus, United Kingdom
 
 ## Timetable and Classroom List
 [View the timetable here](Timetables_SARSCOV2B4B.pdf)    
