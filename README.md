@@ -122,6 +122,7 @@ The programme will cover the following core topics:
 [Module 4 Part 2 Day Plan](dayplans/Module_4_Day_2_SARS-CoV-2_B4B_2022.pdf) 
 (Exercises for Day 2 are in the videos for Sections 5-7)
 
+[Module 4 Slide deck pdf](Modules/Module_4-Phylogenetics-interpretation-data-sharing_slide.pptx.pdf)
 
 ## Additional information
 
