@@ -50,7 +50,6 @@ The programme will cover the following core topics:
 - [Jorge Batista da Rocha](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), COG-Train, Wellcome Connecting Science, United Kingdom, Sydney Brenner Institute for Molecular Bioscience [SBIMB](https://www.wits.ac.za/research/sbimb/), University of the Witwatersrand, South Africa
 - [Leigh Jackson](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), COG-Train, University of Exeter, United Kingdom
 - [Marcela Suarez Esquivel](https://www.medvet.una.ac.cr), Universidad Nacional, Costa Rica <!-- updated permissions to share institution link -->
-- Nicholas Bbosa, Medical Research Council, Uganda Virus Research Institute, London School of Hy & Trop Medicine, Uganda, United Kingdom
 - [Paul Oluniyi](https://www.czbiohub.org), Chan Zuckerberg Biohub, University of California, San Francisco, USA 
 - [Progress Dube](https://nba.ac.zw), National Biotechnology Authority, Zimbabwe
 - [Una Ren](https://www.esr.cri.nz/), Special Pathogens Unit, Environmental Science and Research, New Zealand
@@ -65,7 +64,7 @@ The programme will cover the following core topics:
 ## Course manual
 
 **Introduction Week**         
-[Introduction Day 1 Dayplan](dayplans/Introduction_Week_Day_Plan_Day1.pdf)       
+<!--- [Introduction Day 1 Dayplan](dayplans/Introduction_Week_Day_Plan_Day1.pdf) --->     
 
 [Introduction Notebook - Begin here](Modules/introduction_notebook_example.md)      
       
