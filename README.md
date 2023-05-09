@@ -1,7 +1,7 @@
 # SARS-COV-2_B4B
 This is a repository for the SARS-CoV-2 Bioinformatics for Beginners Course
 
-*April 2023 update note - Access to file download links may change in the first two weeks of April 2023 which would impact the input data for example commands. Please expect errors over this time period. *
+*May 2023 update note - Access to file download links may change in the first two weeks of May 2023 which would impact the input data for example commands. Please expect errors over this time period. *
 
 SARS-CoV-2 variant lineage identification is key to pandemic tracking and enabling public health response. This course is an introduction to bioinformatics by applying skills used in SARS-CoV-2 genomic data analysis. This will be a distributed classrooms style course run across Africa; Latin America and the Caribbean; and Asia. This model was developed by [H3ABioNet](https://www.h3abionet.org), see this [publication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008640) for more info. 
 
@@ -58,10 +58,10 @@ The programme will cover the following core topics:
 - [Varun Shammana](www.crlkims.com), Central Research Laboratory, Kempegowda Institute of Medical Sciences
 - [Zahra Waheed](https://www.ebi.ac.uk/ena/browser/home), European Bioinformatics Institute, Wellcome Genome Campus, United Kingdom
 
-## Timetable and Classroom List
-[View the timetable here](Timetables_SARSCOV2B4B.pdf)    
+<!--- ## Timetable and Classroom List  --->   
+<!--- [View the timetable here](Timetables_SARSCOV2B4B.pdf)     --->   
 
-[Classroom List and Numbers](Classroom_List_SARSCOV2B4B.pdf)
+<!--- [Classroom List and Numbers](Classroom_List_SARSCOV2B4B.pdf)  --->   
 
 ## Course manual
 
